@@ -4,6 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/redpandadata.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=redpandadata)
 ![Go](https://github.com/redpanda-data/redpanda/workflows/Go/badge.svg)
 ![C++](https://github.com/redpanda-data/redpanda/workflows/build-test/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeniscoady%2Fredpanda.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeniscoady%2Fredpanda?ref=badge_shield)
 
 [<p align="center"><img src="docs/PANDA_sitting.jpg" alt="redpanda sitting" width="400"/></p>](https://redpanda.com/redpanda)
 <img src="https://static.scarf.sh/a.png?x-pxid=3c187215-e862-4b67-8057-45aa9a779055" />
@@ -143,3 +144,7 @@ This is an example with the `v23.1.1-rc1` version prior to the 23.1.1 release.
 ```bash
 docker pull docker.redpanda.com/redpandadata/redpanda-unstable:v23.1.1-rc1
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeniscoady%2Fredpanda.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeniscoady%2Fredpanda?ref=badge_large)
