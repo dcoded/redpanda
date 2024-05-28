@@ -109,7 +109,7 @@ fetch_dep(hdrhistogram
 set(LLAMA_CUBLAS ON)
 fetch_dep(llamacpp
   REPO https://github.com/ggerganov/llama.cpp
-  TAG b2471)
+  TAG 2b737)
 
 list(APPEND WASMTIME_USER_CARGO_BUILD_OPTIONS --no-default-features)
 list(APPEND WASMTIME_USER_CARGO_BUILD_OPTIONS --features=async)
